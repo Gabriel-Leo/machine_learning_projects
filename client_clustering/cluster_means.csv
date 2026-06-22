@@ -1,0 +1,4 @@
+Cluster,Year_Birth,Education,Marital_Status_0,Marital_Status_1,Marital_Status_2,Income,Kidhome,Teenhome,Dt_Customer,Recency,MntWines,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,AcceptedCmp3,AcceptedCmp4,AcceptedCmp5,AcceptedCmp1,AcceptedCmp2,Complain,Response
+0,-0.07,0.46,0.14,0.64,0.64,-0.0,0.45,0.51,0.35,0.0,0.27,0.57,0.46,0.54,0.58,0.42,0.16,0.03,0.15,0.16,-0.17,0.07,0.08,0.07,0.07,0.01,0.01,0.15
+1,0.43,1.0,0.0,1.0,0.75,2.07,0.25,0.25,0.25,-0.11,-0.32,-0.1,7.46,-0.14,-0.19,-0.47,4.62,-1.0,6.12,-0.95,-1.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,0.39,0.0,0.0,1.0,0.0,18.87,1.0,0.0,0.0,-0.52,-0.34,0.19,-0.23,-0.09,-0.21,-0.26,1.0,-0.25,-0.25,-0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
